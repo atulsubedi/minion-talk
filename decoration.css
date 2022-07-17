@@ -1,0 +1,66 @@
+
+
+.textarea{
+    box-sizing: border-box;
+    display: block;
+    width: 70%;
+    min-height: 5vh;
+    margin-top: 2rem;
+    font-size: large;
+    font-family: inherit;
+
+}
+
+
+
+
+.first{
+    background-color: #F2C94C;
+    text-align: center;
+    padding: 1rem;
+    box-sizing: border-box;
+    margin: 0%;
+
+}
+.button{
+    background-color: #F2C94C;
+   text-decoration: none;
+   font-size: large;
+   text-decoration: none;
+   text-align: center;
+   border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+}
+.footer{
+   position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color: #F2C94C;
+    text-align: center;
+}
+
+
+
+
+.noob{
+    font-weight: bold;
+    text-align: center;
+}
+.para{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body{
+    font-family: 'Rubik Moonrocks', cursive;
+    margin: 0rem;
+}
+.footer .para{
+    max-width: 600px;
+    margin: auto;
+}
