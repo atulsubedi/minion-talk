@@ -9,7 +9,7 @@ const translate =document.querySelector("#btn-translate")
     }
 
     function errorhandler(error){
-     console.log("error occur", error)
+     console.log("error occur", error);
      alert("error occur please try again later")
     }
 
