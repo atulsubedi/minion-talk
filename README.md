@@ -1,8 +1,7 @@
-#this is my personal portfolio
+# Neogcamp - minion talk
 
 
 
 
 
-alola there ! its me atul i have been with neo g camp  since last week and 
-i am developing my skill to code enough 
+**Hello** It's me atul. I have started neog camp last week and I am developing my skill to code enough to get a job. 
